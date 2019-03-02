@@ -1,3 +1,7 @@
+@font-face{
+    font-family:Nasa;
+    src: url(Fonts/nasalization-rg.ttf);
+}
 .centerImage{
     display: block;
     margin-left: auto;
